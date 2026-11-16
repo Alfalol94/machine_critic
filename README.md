@@ -9,7 +9,7 @@ Machine Critic es un proyecto de Machine Learning que estima qué tan lejos lleg
 **Autores:** Andrés Felipe Mantilla Almeyda · Manuel Alejandro Rojas Sierra
 
 Link Video de Presentacion :
---->
+---> https://www.youtube.com/watch?v=OoQ3dZZO4bw
 ---
 
 ##  Tabla de contenidos
