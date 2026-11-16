@@ -1,3 +1,5 @@
+![Machine Critic](assets/banner.png)
+
 #  Machine Critic
 
 **Predicción del alcance de videojuegos de Steam con Machine Learning**
@@ -256,8 +258,6 @@ Los resultados en test son consistentes con los de validación (sin sobreajuste 
 ---
 
 ##  Estructura del repositorio
-
->  Ajusta los nombres según los archivos reales de tu repositorio.
 
 ```
 Machine-Critic/
