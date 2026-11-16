@@ -262,13 +262,11 @@ Los resultados en test son consistentes con los de validación (sin sobreajuste 
 ```
 Machine-Critic/
 ├── README.md
-├── notebooks/
-│   └── MachineLearningAvance3_regresion.ipynb
-├── presentaciones/
-│   ├── presentacion_avance_1.pptx
-│   ├── Segundo_avance_Machine_project.pdf
-│   └── Machine_Critic_Avance_3.pdf
-|   └── video.mp4
+├── MachineLearningAvance3_regresion.ipynb
+├── presentacion_avance_1.pptx
+├── Segundo_avance_Machine_project.pdf
+└── Machine_Critic_Avance_3.pdf
+└── video.mp4
 
 ```
 
