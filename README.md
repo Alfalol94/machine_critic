@@ -8,6 +8,7 @@ Machine Critic es un proyecto de Machine Learning que estima qué tan lejos lleg
 
 **Autores:** Andrés Felipe Mantilla Almeyda · Manuel Alejandro Rojas Sierra
 
+Link Video Youtube : 
 ---
 
 ##  Tabla de contenidos
@@ -266,7 +267,6 @@ Machine-Critic/
 ├── presentacion_avance_1.pptx
 ├── Segundo_avance_Machine_project.pdf
 └── Machine_Critic_Avance_3.pdf
-└── video.mp4
 
 ```
 
