@@ -1,4 +1,4 @@
-![Machine Critic](assets/banner.png)
+![Machine Critic](Machine_critic.png)
 
 #  Machine Critic
 
