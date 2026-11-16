@@ -21,7 +21,6 @@ Link Video de Presentacion :
 5. [Resultados](#-resultados)
 6. [Conclusiones](#-conclusiones)
 7. [Estructura del repositorio](#-estructura-del-repositorio)
-8. [Trabajo futuro](#-trabajo-futuro)
 
 ---
 
